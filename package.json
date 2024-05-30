@@ -2,7 +2,7 @@
   "name": "node-walletconnect-push",
   "description": "WalletConnect Push Server",
   "version": "1.0.0-beta",
-  "private": true,
+  "private": false,
   "keywords": [
     "walletconnect",
     "ethereum",
